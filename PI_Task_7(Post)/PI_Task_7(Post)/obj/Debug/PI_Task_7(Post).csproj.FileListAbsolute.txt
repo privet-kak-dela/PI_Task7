@@ -1,0 +1,7 @@
+C:\Users\Амалия\source\repos\PI_Task_7(Post)\PI_Task_7(Post)\bin\Debug\PI_Task_7(Post).exe.config
+C:\Users\Амалия\source\repos\PI_Task_7(Post)\PI_Task_7(Post)\bin\Debug\PI_Task_7(Post).exe
+C:\Users\Амалия\source\repos\PI_Task_7(Post)\PI_Task_7(Post)\bin\Debug\PI_Task_7(Post).pdb
+C:\Users\Амалия\source\repos\PI_Task_7(Post)\PI_Task_7(Post)\obj\Debug\PI_Task_7(Post).csproj.AssemblyReference.cache
+C:\Users\Амалия\source\repos\PI_Task_7(Post)\PI_Task_7(Post)\obj\Debug\PI_Task_7(Post).csproj.CoreCompileInputs.cache
+C:\Users\Амалия\source\repos\PI_Task_7(Post)\PI_Task_7(Post)\obj\Debug\PI_Task_7(Post).exe
+C:\Users\Амалия\source\repos\PI_Task_7(Post)\PI_Task_7(Post)\obj\Debug\PI_Task_7(Post).pdb
