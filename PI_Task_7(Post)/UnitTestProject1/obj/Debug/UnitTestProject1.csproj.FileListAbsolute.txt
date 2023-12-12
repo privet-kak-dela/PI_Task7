@@ -1,0 +1,17 @@
+C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\UnitTestProject1\bin\Debug\PI_Task_7(Post).exe
+C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\UnitTestProject1\bin\Debug\PI_Task_7(Post).pdb
+C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\UnitTestProject1\bin\Debug\PI_Task_7(Post).exe.config
+C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

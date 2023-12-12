@@ -9,3 +9,6 @@ C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\PI_Task_7(Post)\
 C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\PI_Task_7(Post)\obj\Debug\PI_Task_7(Post).csproj.CoreCompileInputs.cache
 C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\PI_Task_7(Post)\obj\Debug\PI_Task_7(Post).exe
 C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\PI_Task_7(Post)\obj\Debug\PI_Task_7(Post).pdb
+C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\PI_Task_7(Post)\bin\Debug\PI_Task_7(Post).exe.config
+C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\PI_Task_7(Post)\bin\Debug\PI_Task_7(Post).exe
+C:\Users\Амалия\Documents\GitHub\PI_Task7\PI_Task_7(Post)\PI_Task_7(Post)\bin\Debug\PI_Task_7(Post).pdb

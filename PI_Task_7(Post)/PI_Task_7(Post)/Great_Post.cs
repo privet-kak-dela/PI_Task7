@@ -7,22 +7,23 @@ using System.Threading.Tasks;
 
 namespace Great_Post
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            hello nikolay.
-            Console.WriteLine("Введите количество переменных");
-            int m = int.Parse(Console.ReadLine());
-            Console.WriteLine("Введите eval");
-            string s = Console.ReadLine();
-            Debug.Assert(m <= 10 && m > 0,"Количество переменных меньше 10 и больше 0 должно быть");
-            Debug.Assert(Math.Pow(2, m) == s.Length,"Давайте по новой");
-            foreach (var e in s)
-                Debug.Assert(e == '0' || e == '1',"ЭЭ..в строке должны быть только нолики и единички");
 
+            //Console.WriteLine("Введите количество переменных");
+            //int m = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Введите eval");
+            //string s = Console.ReadLine();
+            //Debug.Assert(m <= 10 && m > 0,"Количество переменных меньше 10 и больше 0 должно быть");
+            //Debug.Assert(Math.Pow(2, m) == s.Length,"Давайте по новой");
+            //foreach (var e in s)
+            //    Debug.Assert(e == '0' || e == '1',"ЭЭ..в строке должны быть только нолики и единички");
+
+
+            //Great_Post(s);
            
-            Great_Post(s);
 
             
         }
@@ -162,28 +163,30 @@ namespace Great_Post
             return true;
 
         }
-        static void Great_Post(string eval)
+        public static bool GreatPost(string eval)
         {
-            if (Is_P0(eval))
-                Console.WriteLine("Функция сохраняет ноль");
-            else
-                Console.WriteLine("Функция не сохраняет ноль");
-            if (Is_P1(eval))
-                Console.WriteLine("Функция сохраняет единицу");
-            else
-                Console.WriteLine("Функция не сохраняет единицу");
-            if (Is_SelfDual(eval))
-                Console.WriteLine("Функция является самодвойственной");
-            else
-                Console.WriteLine("Функция не является самодвойственной");
-            if (Is_Linear(eval))
-                Console.WriteLine("Функция является линейной");
-            else
-                Console.WriteLine("Функция не является линейной");
-            if (Is_Mono(eval))
-                Console.WriteLine("Функция является монотонной");
-            else
-                Console.WriteLine("Функция не является монотонной");
+
+            return !Is_P0(eval) && !Is_P1(eval) && !Is_SelfDual(eval) && !Is_Linear(eval) && !Is_Mono(eval);
+            //if (Is_P0(eval))
+            //    Console.WriteLine("Функция сохраняет ноль");
+            //else
+            //    Console.WriteLine("Функция не сохраняет ноль");
+            //if (Is_P1(eval))
+            //    Console.WriteLine("Функция сохраняет единицу");
+            //else
+            //    Console.WriteLine("Функция не сохраняет единицу");
+            //if (Is_SelfDual(eval))
+            //    Console.WriteLine("Функция является самодвойственной");
+            //else
+            //    Console.WriteLine("Функция не является самодвойственной");
+            //if (Is_Linear(eval))
+            //    Console.WriteLine("Функция является линейной");
+            //else
+            //    Console.WriteLine("Функция не является линейной");
+            //if (Is_Mono(eval))
+            //    Console.WriteLine("Функция является монотонной");
+            //else
+            //    Console.WriteLine("Функция не является монотонной");
 
 
         }
