@@ -11,7 +11,7 @@ namespace Great_Post
     {
         static void Main(string[] args)
         {
-            hello nikolay
+            hello nikolay.
             Console.WriteLine("Введите количество переменных");
             int m = int.Parse(Console.ReadLine());
             Console.WriteLine("Введите eval");
